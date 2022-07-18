@@ -1,5 +1,5 @@
 # Python Keyauth Loader
-Basic python keyauth loader, including some checks from @6nz 's loader.
+Basic python keyauth loader, including some security checks from @6nz 's loader.
 # Set up
 Code or add your tool all into a function inside the **tools/app.py** file.<br />
 Change every  **name=AppNameHere** and **owner=OwnerIdHere** in the main.py to yours<br />
