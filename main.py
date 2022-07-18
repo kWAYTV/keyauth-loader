@@ -33,8 +33,8 @@ from urllib.request import Request, urlopen
 import dhooks
 from dhooks import Webhook
 import threading
-import pystyle
 import webbrowser
+import pystyle
 from pystyle import Colors, Colorate, Center
 from tools.app import app
 ###############################################MODULES###############################################
