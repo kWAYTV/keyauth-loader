@@ -9,6 +9,6 @@ Change the *loader/window names, style etc* to your needs.
 If i find you reselling this you gonna regret it.<br />
 Credit me if you use it, please.
 # Links
-[Discord](https://discord.gg/MRNuVCXuTS)<br />
+[Discord](https://discord.gg/kway)<br />
 [Website](https://kwayservices.top)
 [Telegram](https://t.me/kwaytv)<br />
