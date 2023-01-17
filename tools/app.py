@@ -1,8 +1,5 @@
-import time
-import sys
-
+# Your app imports here
 
 def app():
-    print("your app here")
-    time.sleep(3)
-    exit()
+    # Your app here
+    ...
